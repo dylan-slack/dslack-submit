@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/dylanslack/Projects/rl-hw1/cs285/scripts/../data/dagger_test_dagger_Walker2d_Walker2d-v2_21-01-2020_15-55-38/policy_itr_9"
+all_model_checkpoint_paths: "/Users/dylanslack/Projects/rl-hw1/cs285/scripts/../data/dagger_test_dagger_Walker2d_Walker2d-v2_21-01-2020_15-55-38/policy_itr_9"
